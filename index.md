@@ -21,4 +21,4 @@ For more information on these two tracks, click on the following links: [Produce
 
 The hackathon will take place at [Insee's headquarters](https://www.google.com/maps/place/48°48'58.5"N+2°18'29.3"E) in Montrouge, just south of Paris. Access information is available on [Insee's web site](https://www.insee.fr/fr/information/1895031). Participants must be registered and bring a valid photo ID in order to enter the building.
 
-Each participant must bring its own laptop with development tools. WiFi will be available.
+Each participant must bring his own laptop with development tools. WiFi will be available.
